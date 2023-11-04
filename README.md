@@ -1,9 +1,10 @@
 # FootWearFever
-========================================================================================##============================================================================================
+=========================================================================##===========================================================================
 
-                                                    Projeto da N1 do segundo bimestre para construção de um site de venda de tênis
+Projeto da N1 do segundo bimestre para construção de um site de venda de tênis
 
-========================================================================================##============================================================================================
+=========================================================================##===========================================================================
+
 O trabalho deve possuir – obrigatoriamente - as seguintes características:
 
   · Pelo menos 3 CRUDs, sendo que todos deverão possuir relacionamento com outra tabela. As listagens de tabelas que possuam relacionamento devem fazer o “join” e exibir o campo relacionado.
