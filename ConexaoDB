@@ -1,0 +1,15 @@
+using System.Data.SqlClient;
+
+namespace site_tenis_para_n1.DAO
+{
+    public static class ConexaoDB
+    {
+        public static SqlConnection GetConexao()
+        {
+            string strCon = "Data Source=localhost\\SQLEXPRESS01;Initial Catalog=LojaDeTenis;Integrated Security=True;";
+            SqlConnection conexao = new SqlConnection(strCon);
+            conexao.Open();
+            return conexao;
+        }
+    }
+}
