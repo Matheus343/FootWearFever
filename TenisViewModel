@@ -1,0 +1,13 @@
+namespace site_tenis_para_n1.Models
+{
+    public class TenisViewModel
+    {
+        public int IdTenis { get; set; }
+        public string Nome { get; set; }
+        public int Categoria { get; set; }
+        public double Valor { get; set; }
+        public int Marca { get; set; }
+        public int Estoque { get; set; }
+
+    }
+}
