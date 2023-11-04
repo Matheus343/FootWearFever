@@ -43,4 +43,4 @@ O trabalho deve possuir – obrigatoriamente - as seguintes características:
   
   · Todos os conceitos e boas práticas de programação que já foram tratadas em outras disciplinas devem ser aplicadas aqui, como identação do código, controle de exceção, orientação a objetos, complexidade ciclomática, etc.
 
-========================================================================================##============================================================================================
+============================================================================================
